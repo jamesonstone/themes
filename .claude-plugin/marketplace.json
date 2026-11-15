@@ -1,0 +1,6 @@
+{
+  "name": "jamesonstone-themes",
+  "owner": { "name": "jamesonstone" },
+  "metadata": { "description": "Themes for the Claude desktop and mobile apps." },
+  "plugins": [{ "name": "monokai-sleek", "source": "./claude/monokai-sleek" }]
+}
