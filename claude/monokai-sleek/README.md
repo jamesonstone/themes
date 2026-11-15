@@ -8,7 +8,7 @@ A Claude Code mod that paints the desktop and mobile apps in the original Monoka
 /plugin install monokai-sleek --marketplace jamesonstone/themes
 ```
 
-The [repository README](../../README.md#install) has the desktop app and shell steps.
+The [repository README](../../README.md#load-a-claude-theme) has the desktop app steps, the shell line, and how to load it from a local clone.
 
 ## Palette
 
